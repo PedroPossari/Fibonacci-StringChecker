@@ -1,0 +1,14 @@
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\bin\Debug\net8.0\Ex1.exe
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\bin\Debug\net8.0\Ex1.deps.json
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\bin\Debug\net8.0\Ex1.runtimeconfig.json
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\bin\Debug\net8.0\Ex1.dll
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\bin\Debug\net8.0\Ex1.pdb
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfoInputs.cache
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfo.cs
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.csproj.CoreCompileInputs.cache
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.dll
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\refint\Ex1.dll
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.pdb
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\Ex1.genruntimeconfig.cache
+C:\visual_studio22\Estudo\udemy\POO\Ex1\Ex1\obj\Debug\net8.0\ref\Ex1.dll
